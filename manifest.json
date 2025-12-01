@@ -19,5 +19,6 @@
         "type": "string"
       }
     }
-  }
+  },
+  "short_name": "ubq-testing/ubiquity-arb-bot@main"
 }
